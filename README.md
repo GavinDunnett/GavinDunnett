@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GavinDunnett
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Database Systems, AI, and Functional Programming.
-- 📫 Reach me at gavin.dunnett@utdallas.edu
+- 🌱 
+- 📫 
 - 🏵 HackerRank: www.hackerrank.com/gav_dunnett
 
 <!---
